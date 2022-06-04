@@ -1,5 +1,6 @@
 description: Empty TrueGRF project
 grfid: TRU1
-license: CC0-1.0
+license: CC-BY-4.0
 name: TrueGRF
+url: https://github.com/ecolortest/test
 version: 4
