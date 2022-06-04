@@ -1,0 +1,17 @@
+abbreviation: NE
+available: false
+classes: 32
+colour: 10
+id: 0
+label: NEWC
+longName: iron ore
+name: Iron Ore
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/iron-ore.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 1
